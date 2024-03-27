@@ -38,7 +38,7 @@ That's it! You're ready to start creating and saving your notes with JATE.
 
 ## Deployment
 
-JATE is deployed and accessible online. You can try it out right now by visiting [JATE Demo](https://jate-demo.herokuapp.com/).
+JATE is deployed and accessible online. You can try it out right now by visiting [JATE Demo](https://just-another-text-editor-jate-1.onrender.com/).
 
 ## License
 
