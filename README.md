@@ -14,8 +14,8 @@ Just Another Text Editor (JATE) is a sleek and minimalist web application that a
 - [Deployment](#deployment)
 - [License](#license)
 - [Contributing](#contributing)
-- [GitHub](#github)
 - [Demo Video](#demo)
+- [GitHub](#github)
 
 ## ✨ Features
 
@@ -48,10 +48,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve JATE and make it even better for the community.
 
+## Demo
+
+https://github.com/Philip-Tom/Just-Another-Text-Editor-JATE-/assets/147503829/59900b3f-9b77-4401-93e4-bd42e9b848d3
+
 ## GitHub
 
 Explore the source code and contribute to JATE on [GitHub](https://github.com/Philip-Tom/Just-Another-Text-Editor-JATE-).
-
-## Demo
-
 Happy note-taking with JATE! 🎉
